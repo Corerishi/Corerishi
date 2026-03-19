@@ -19,7 +19,7 @@ I build things at the intersection of AI, full-stack dev, and Android.
 |---|---|---|
 | [ArtifactLens](https://github.com/Corerishi/Deepfake_Detection) | AI-powered deepfake detection web app | FastAPI, React, TensorFlow |
 | [Briefly.CU](https://github.com/Corerishi/Briefly.CU) | NLP article summarizer | Python, NLP |
-| [RAG-Review-AI-Assistant](https://github.com/Corerishi/RAG-Review-AI-Assistant) | AI assistant using RAG pipeline | Python, LangChain |
+| [ReviewMind](https://github.com/Corerishi/ReviewMind) | AI assistant using RAG pipeline | Python, LangChain |
 | [Stock Market Analysis](https://github.com/Corerishi/Stock-Market-Analysis-Prediction) | Stock prediction using ML | Python, Jupyter |
 
 ## 📫 Connect
