@@ -1,14 +1,26 @@
-# 💫 About Me:
-🧠 Currently learning **LangChain**, **Ollama**, and **RAG** to build smart local AI agents.<br>💻 Pursuing **MCA** and building real-world projects to sharpen my skills.<br>🌐 Exploring **DevOps**, **Cloud**, and **AI integrations** through hands-on experience.<br>🔍 Passionate about solving real problems and sharing everything I build.
+# Hi, I'm Rishi Raj 👋
 
+MCA student at CHRIST (Deemed to be University), Bengaluru.  
+I build things at the intersection of AI, full-stack dev, and Android.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/520847905637007381) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishi-raj2710) 
+## 🚀 What I'm Working On
+- **ArtifactLens** — Deepfake detection using ResNet50 + MTCNN (FastAPI + React + MongoDB Atlas)
+- **Briefly.CU** — NLP-powered article summarizer built with Python
+- Exploring LangChain, RAG pipelines, and local AI agents with Ollama
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🛠️ Tech I Work With
+**Languages:** Python, Kotlin, JavaScript, Java, PHP  
+**Frameworks:** FastAPI, React, Jetpack Compose, Django  
+**Databases:** MongoDB, MySQL, Room (Android)  
+**Tools:** TensorFlow, scikit-learn, Git, Firebase, AWS
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📌 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [ArtifactLens](https://github.com/Corerishi/Deepfake_Detection) | AI-powered deepfake detection web app | FastAPI, React, TensorFlow |
+| [Briefly.CU](https://github.com/Corerishi/Briefly.CU) | NLP article summarizer | Python, NLP |
+| [RAG-Review-AI-Assistant](https://github.com/Corerishi/RAG-Review-AI-Assistant) | AI assistant using RAG pipeline | Python, LangChain |
+| [Stock Market Analysis](https://github.com/Corerishi/Stock-Market-Analysis-Prediction) | Stock prediction using ML | Python, Jupyter |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-raj-9110a824a)
