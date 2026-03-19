@@ -1,4 +1,4 @@
-# Hi, I'm Rishi Raj 👋
+# Hi, I'm Rishi Raj 
 
 MCA student at CHRIST (Deemed to be University), Bengaluru.  
 I build things at the intersection of AI, full-stack dev, and Android.
